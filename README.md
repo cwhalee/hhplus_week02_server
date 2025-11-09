@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## 프로젝트
 
 ## Getting Started
@@ -11,3 +12,6 @@
 ```bash
 docker-compose up -d
 ```
+=======
+# hhplus_week02_server
+>>>>>>> origin/main
