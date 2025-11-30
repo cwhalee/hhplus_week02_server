@@ -44,7 +44,7 @@
 - Seat  
 - Reservation  
 - PointHistory  
-- QueueToken(선택 기능)  
+- QueueToken
 
 좌석 임시 배정(TTL)과 예약 확정을 반영한 구조이며  
 좌석 중복 예약을 방지하기 위해 각 엔티티에 상태(status) 및 FK/PK 관계를 정의했습니다.
